@@ -3,6 +3,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7A7&center=true&vCenter=true&width=600&lines=Eai%2C+eu+sou+Tiago+Palmeira!;Fullstack+Dev+do+Grupo+GenIA;Front-end+em+TSX;C%C3%B3digo%2C+caf%C3%A9+e+criatividade+%E2%98%95%EF%B8%8F" alt="Typing SVG" />
 </p>
 
+<!-- GIF de anime aleatório no topo -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZyd2Y2OHVrd3d2NG1kM2x5bGJhMW1mbWpkbGt4dHN5dm5kZjM4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZqlvCTNHpqrio/giphy.gif" width="400" alt="Anime GIF Aleatório"/>
+</p>
+
 ---
 
 ## 👋 Sobre mim
@@ -65,7 +70,7 @@
 - 🧠 Curioso por **IA**, **automação** e **cibersegurança**.  
 - 🐧 Linux user desde sempre ❤️  
 - 🤓 Viciado em aprender novas ferramentas e frameworks.  
-- 🔥 “console.log(‘a vida é uma constante refatoração’);”
+- 🔥 “console.log('a vida é uma constante refatoração');”  
 
 ---
 
@@ -77,7 +82,8 @@
 ---
 
 <p align="center">
-  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="250" alt="Coding GIF"/>
+  <!-- GIF divertido e compatível com GitHub -->
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="250" alt="Coding GIF"/>
 </p>
 
 <p align="center">
